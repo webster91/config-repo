@@ -1,8 +1,6 @@
 ribbon:
   eureka:
     enabled: true
-server:
-  port: 8760
 eureka:
   client:
     serviceUrl:
